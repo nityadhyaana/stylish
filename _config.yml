@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 # User setting
-owner:
+owner: Swathi
 email: swathi.ammalu007@gmail.com
 facebook_username:
 twitter_username:
@@ -16,8 +16,8 @@ address:
   - line:
   - line:
   # Feel free to add more lines here 
-telephone:
-copyright:
+telephone: 9538914757
+copyright: Swathi
 
 # API settings
 google_api_key:
